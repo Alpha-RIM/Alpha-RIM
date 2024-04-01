@@ -4,7 +4,7 @@
 
 
 ## 🚀 My Skills
-- **Programming Languages**: Python (proficient), R (basic)
+- **Programming Languages**: Python, SQL, R
 - **Machine Learning**: Supervised Learning, Unsupervised Learning, Deep Learning
 - **Tools & Libraries**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Data Manipulation**: SQL, Pandas, Data Cleaning, Data Preprocessing

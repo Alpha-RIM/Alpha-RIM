@@ -8,7 +8,7 @@
 - **Machine Learning**: Supervised Learning, Unsupervised Learning, Deep Learning
 - **Tools & Libraries**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Data Manipulation**: SQL, Pandas, Data Cleaning, Data Preprocessing
-- **Visualization**: Matplotlib, Seaborn, Tableau (basic)
+- **Visualization**: Matplotlib, Seaborn, Tableau Stories , PowerBI Report
 - **Version Control**: Git, GitHub
 
 ## 🌱 What I'm Learning
